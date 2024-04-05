@@ -18,6 +18,6 @@
         </div>
     </div>
     <div id="icons" class="flex">
-
+        <p>hi</p>
     </div>
 </div>
