@@ -32,5 +32,31 @@
         @include('homepage.section3')
     </section>
 
+    {{-- about section 4 --}}
+    <section class="flex justify-center w-full">
+        @include('homepage.section4')
+    </section>
+
+    {{-- blog section 5 --}}
+    <section class="flex justify-center w-full">
+        @include('homepage.section5')
+    </section>
+
+    {{-- glance section 6 --}}
+    <section class="flex justify-center w-full">
+        @include('homepage.section6')
+    </section>
+
+    {{-- gallery and calender section 7 --}}
+    <section class="flex justify-center w-full">
+        @include('homepage.section7')
+    </section>
+
+
+    {{-- footer section 8 --}}
+    <section class="flex justify-center w-full">
+        @include('homepage.section8')
+    </section>
+
 </body>
 </html>
